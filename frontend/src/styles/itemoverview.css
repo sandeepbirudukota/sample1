@@ -1,0 +1,40 @@
+.itemoverview_display_picture {
+  border-radius: 5%;
+  width: 500px;
+  height: 500px;
+}
+
+.overview-name {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.addtocart-btn {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.addtocart-btn:hover {
+  background: black;
+  color: white;
+}
+
+.add-cart-quantity {
+  margin-bottom: 0px;
+}
+
+.overview-shop {
+  color: grey;
+}
+
+.addcart-error {
+  margin-top: 5px;
+  color: red;
+}
+
+.addcart-success {
+  margin-top: 5px;
+  color: green;
+}

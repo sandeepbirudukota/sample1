@@ -1,0 +1,62 @@
+.shopcreate-mainnavbar-title {
+  color: #f1641e !important;
+  font-weight: bold !important;
+  font-size: 2rem;
+  font-family: "Graphik Webfont", -apple-system, "Helvetica Neue", "Droid Sans",
+    Arial, sans-serif;
+}
+
+.create-shop-title {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Guardian-EgypTT", Charter, "Charter Bitstream", Cambria,
+    "Noto Serif Light", "Droid Serif", Georgia, serif;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  margin-top: 10px;
+}
+
+.create-shop-subtitle {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Guardian-EgypTT", Charter, "Charter Bitstream", Cambria,
+    "Noto Serif Light", "Droid Serif", Georgia, serif;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  color: grey;
+}
+
+.create-shop-note {
+  text-align: center;
+  font-size: 24px;
+  font-family: "Guardian-EgypTT", Charter, "Charter Bitstream", Cambria,
+    "Noto Serif Light", "Droid Serif", Georgia, serif;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  color: grey;
+}
+
+.shop-create-name {
+  width: 70%;
+  margin: auto;
+}
+
+.create-shop-avl {
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.create-shop-notavl {
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.shopcreate-success {
+  color: green;
+}
+
+.shopcreate-error {
+  color: red;
+}

@@ -1,0 +1,23 @@
+.shopowner-heading {
+  margin-top: 30px;
+  color: rgb(73, 73, 73);
+  font-size: 28px;
+}
+
+.shophome_owner_picture {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.mrgn-tp {
+  margin-top: 20px;
+}
+
+.shop-image {
+  margin-top: 30px;
+}
+
+.shop-name {
+  margin-top: 30px;
+}

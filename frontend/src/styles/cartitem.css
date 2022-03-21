@@ -1,0 +1,27 @@
+.cartitem_remove-btn {
+  background: white;
+  color: red;
+  border-radius: 20px;
+  border: 1px solid red;
+}
+
+.cartitem_remove-btn:hover {
+  background: red;
+  color: white;
+}
+
+.cartitem_display_picture {
+  border-radius: 5%;
+  width: 400px;
+  height: 400px;
+}
+
+.cartitem-container {
+  margin-top: 30px;
+}
+
+.cartitem-cost {
+  margin-left: 20px;
+  text-decoration: underline;
+  font-style: italic;
+}

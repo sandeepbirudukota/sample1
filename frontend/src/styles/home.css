@@ -1,0 +1,56 @@
+.price-filter {
+  display: inline-block;
+  padding-left: 20px;
+  margin: 10px;
+  width: 30%;
+}
+
+.sort-filter {
+  display: inline-block;
+  padding-left: 10px;
+  margin: 10px;
+  width: 40%;
+}
+
+.exclude-filter {
+  display: inline-block;
+  margin: 10px;
+}
+.price-label {
+  display: inline-block;
+}
+
+.filter-col {
+  display: inline-block;
+  width: 25%;
+}
+
+.filter-row {
+  margin-left: 20px;
+}
+
+.filterbox {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.filterheading {
+  margin-top: 5px;
+}
+
+.home_body {
+  margin: auto;
+  width: 90%;
+}
+
+.filter-button {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.filter-button:hover {
+  background: black;
+  color: white;
+}

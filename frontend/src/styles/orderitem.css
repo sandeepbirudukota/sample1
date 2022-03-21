@@ -1,0 +1,12 @@
+.orderitem_display_picture {
+  border-radius: 5%;
+  width: 300px;
+  height: 300px;
+  margin: 30px 10px;
+}
+
+.orderitem-container {
+  margin-top: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}

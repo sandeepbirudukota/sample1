@@ -1,0 +1,32 @@
+.favoriteitem_picture {
+  width: 14rem;
+  height: 13rem;
+}
+
+.favoriteitem_card {
+  width: 14rem;
+  display: inline-block;
+  margin: 10px 3px;
+  cursor: pointer;
+}
+
+.favoriteitem_name {
+  font-size: 26px;
+}
+
+.favoriteitem_price {
+  font-size: 30px;
+}
+
+.favoriteitem_description {
+  font-size: 20px;
+}
+
+.favoriteitem_sales_count {
+  font-size: 18px;
+  text-decoration: underline;
+}
+.favoriteitem-favorite-icon {
+  cursor: pointer;
+  z-index: 9999;
+}

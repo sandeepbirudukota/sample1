@@ -1,0 +1,54 @@
+.add-shopitem-btn {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.add-shopitem-btn:hover {
+  background: black;
+  color: white;
+}
+
+.addshop-confirm_save-btn {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+
+.addshop-confirm_save-btn:hover {
+  background: black;
+  color: white;
+}
+
+.addshop-cancel_save-btn {
+  background: white;
+  color: red;
+  border-radius: 20px;
+  border: 1px solid red;
+  margin-left: 20px;
+}
+
+.addshop-cancel_save-btn:hover {
+  background: red;
+  color: white;
+}
+
+.additem-category-collapse {
+  margin-top: 0px;
+  text-decoration: underline;
+  color: grey;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.add-category-btn {
+  margin-top: 10px;
+}
+
+.add-category-form-label {
+  font-size: 16px;
+  margin-bottom: 0px;
+}

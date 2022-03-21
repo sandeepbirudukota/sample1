@@ -1,0 +1,104 @@
+.view_profile_picture {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.viewprofile-editimg {
+  position: relative;
+  margin-left: 176px;
+  top: -24px;
+  left: 8px;
+  cursor: pointer;
+}
+.viewprofile_username {
+  font-size: 2rem;
+}
+
+.viewprofile_useremail {
+  font-size: 1rem;
+}
+
+.viewprofile_usergendercountry {
+  font-size: 1rem;
+}
+
+.viewprofile_userdob {
+  font-size: 1rem;
+}
+
+.viewprofile_userphone {
+  font-size: 1rem;
+}
+
+.viewprofile_useraddress {
+  font-size: 1rem;
+}
+
+.viewprofile_usercity {
+  font-size: 1rem;
+}
+
+.viewprofile_userabout {
+  font-size: 1rem;
+}
+
+.viewprofile_userabout span {
+  display: inline-block;
+  font-style: italic;
+  color: rgb(34, 32, 32);
+}
+
+.viewprofile_editicon_container {
+  margin-left: 20px;
+}
+.viewprofile_edit_icon {
+  display: inline-block;
+  color: rgb(8, 1, 1);
+  height: 25px;
+  width: 25px;
+}
+
+.viewprofile_edit-profile-icon {
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+.view_profile_header {
+  display: inline-block;
+  font-size: 2rem;
+  margin: auto;
+}
+
+.view_profile_home_body {
+  margin: auto;
+  width: 90%;
+  margin-top: 50px;
+}
+
+.favitems-search-container {
+  display: inline-block;
+  width: 30%;
+}
+
+.favitems-search-bar-1 {
+  border-radius: 50px;
+  border: 1px solid lightgrey;
+  border-right: 0px solid;
+}
+
+.favitems-search-bar-2 {
+  border-radius: 50px;
+  border: 1px solid lightgrey;
+  border-left: 0px solid;
+  background: white;
+  cursor: pointer;
+}
+
+.favitems-header {
+  display: inline-block;
+  width: 50%;
+}
+
+.favitems-container {
+  margin-top: 50px;
+}

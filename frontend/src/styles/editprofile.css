@@ -1,0 +1,171 @@
+.profile_picture {
+  width: 150px;
+  height: 150px;
+}
+
+.editprofile_username {
+  font-size: 2rem;
+}
+
+.editprofile_useremail {
+  font-size: 1rem;
+}
+
+.editprofile_usergendercountry {
+  font-size: 1rem;
+}
+
+.editprofile_userdob {
+  font-size: 1rem;
+}
+
+.editprofile_userphone {
+  font-size: 1rem;
+}
+
+.editprofile_useraddress {
+  font-size: 1rem;
+}
+
+.editprofile_usercity {
+  font-size: 1rem;
+}
+
+.editprofile_userabout {
+  font-size: 1rem;
+}
+
+.editprofile_userabout p {
+  width: 300px;
+  height: 100px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  padding: 2px 5px;
+  margin-top: 5px;
+}
+
+.edit_icon {
+  color: black;
+  height: 30px;
+  width: 30px;
+}
+
+.edit_profile_subheader {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.edit_profile_home_body {
+  margin: auto;
+  width: 90%;
+  margin-top: 50px;
+}
+
+.edit-profile-form-container {
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+}
+
+.border-btm {
+  border-bottom: 1px solid lightgrey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.editprofile_edit_icon {
+  display: inline-block;
+  color: rgb(8, 1, 1);
+  height: 25px;
+  width: 25px;
+}
+
+.editprofile_edit-profile-icon {
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+.editprofile_item_input {
+  display: inline-block;
+  width: 50%;
+  margin-right: 10px;
+}
+
+.editprofile_item_label {
+  margin-right: 10px;
+}
+
+.editprofile_input_error {
+  margin-top: 10px;
+}
+
+.editprofile_item_text {
+  margin-left: 5px;
+}
+
+.margn-tp {
+  margin-top: 20px;
+}
+
+.editprofile_dob {
+  padding: 9px 18px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+}
+
+.editprofile_dob_container {
+  width: 50%;
+  display: inline-block;
+}
+
+.editprofile-country {
+  width: 50%;
+  display: inline-block;
+}
+
+.editprofile-about {
+  width: 50%;
+  display: inline-block;
+}
+
+.editprofile_viewprofile-btn {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+
+.editprofile_viewprofile-btn:hover {
+  background: black;
+  color: white;
+}
+
+.editprofile_save-btn {
+  background: white;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+
+.editprofile_save-btn:hover {
+  background: black;
+  color: white;
+}
+
+.editprofile_cancel-btn {
+  background: white;
+  color: red;
+  border-radius: 20px;
+  border: 1px solid red;
+  margin-left: 20px;
+}
+
+.editprofile_cancel-btn:hover {
+  background: red;
+  color: white;
+}
